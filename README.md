@@ -27,3 +27,4 @@ You can then delete the "loading" subfolder of lua/menu/.
 ## Credit
 - Garry - for creating Garry's Mod and coding the loading screen
 - Freezebug - fixing up the loading screen
+- Zerf - some code changes
