@@ -104,8 +104,8 @@ function PANEL:RefreshDownloadables()
 		if not rmx then 
 			iDownloading = iDownloading + self:ClassifyDownload( v )
 		else
-			    MsgC(Color(100,100,255),"GM10MenuDebug: ") 
-			    MsgN("Killed obtained download " .. v)
+			    
+		
 
 
 		end

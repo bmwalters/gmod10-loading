@@ -27,3 +27,6 @@ You can then delete the "loading" subfolder of lua/menu/.
 ## Credit
 - Garry - for creating Garry's Mod and coding the loading screen
 - Freezebug - fixing up the loading screen
+
+## LuaLoad
+This branch has support for a new experimental feature called LuaLoad, which allows a server to run Lua on your loading screen. This code is sandboxed so they can't do harm to your GMod installation. If you wish to test this experimental version, download from this branch and follow the installation instructions. Note that no active servers currently support this feature.
